@@ -8,6 +8,7 @@ public class NumberSort {
         int a = ints.nextInt();
         int b = ints.nextInt();
         int c = ints.nextInt();
+        ints.close();
         int helper;
         System.out.println(a + " " + b + " " + c);
         if (a > b) {
