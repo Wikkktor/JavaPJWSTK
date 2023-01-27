@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class DifferentNumber {
     public static void main(String[] args) {
